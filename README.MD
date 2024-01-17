@@ -2,7 +2,7 @@
 # Face Recognition
 
 ## Overview
-I built this project out of my curiosity to learn to build face recognition security system for we applications
+I built this project out of my curiosity to learn to build face recognition security system for web applications
 
 
 ## Technologies/Frameworks used
